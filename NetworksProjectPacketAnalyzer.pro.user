@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.3.0, 2017-11-17T00:25:42. -->
+<!-- Written by QtCreator 4.3.0, 2017-12-06T20:21:42. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -309,8 +309,8 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">NetworksProjectPacketAnalyzer</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/ferhan/Education_material_and_setups/BS_education_material/Semester 7/Networks/Project/NetworksProjectPacketAnalyzer/NetworksProjectPacketAnalyzer.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">NetworksProjectPacketAnalyzer2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/ferhan/Education_material_and_setups/BS_education_material/Semester 7/Computer Networks/Project/NetworksProjectPacketAnalyzer/NetworksProjectPacketAnalyzer.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">NetworksProjectPacketAnalyzer.pro</value>
