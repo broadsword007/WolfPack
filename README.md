@@ -9,7 +9,7 @@ As mentioned earlier, the program is built over Qt Framework. So you will need  
 - Now just click the run button to start the project
 
 ## Program in Action
-[Youtube Video Link](https://www.youtube.com/watch?v=PIza63fQmRo)
+[Youtube Video](https://www.youtube.com/watch?v=PIza63fQmRo)
 
 ## Sample Images
 
